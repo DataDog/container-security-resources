@@ -41,6 +41,10 @@ Video series that accompanies the blogs
 - [Introduction](https://youtu.be/0MhHkTtiBCc?si=-hLpq6oJkBKi5Ihm)
 - [API Security - Part 1](https://youtu.be/cB7RCAAS4ik?si=tAqVOUAD-Oi8L1as)
 
+## Security Labs
+
+- [All Container Security Posts](https://securitylabs.datadoghq.com/articles/?tag=container_security)
+
 ## Container Security Standards
 
 - [CIS Benchmark for Kubernetes](https://www.cisecurity.org/benchmark/kubernetes)
