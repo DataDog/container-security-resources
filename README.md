@@ -34,12 +34,21 @@ An ongoing series of blogs posts about fundamental Kubernetes security concepts
 - [Introduction](https://securitylabs.datadoghq.com/articles/kubernetes-security-fundamentals-part-1/)
 - [API Security](https://securitylabs.datadoghq.com/articles/kubernetes-security-fundamentals-part-2/)
 - [Authentication](https://securitylabs.datadoghq.com/articles/kubernetes-security-fundamentals-part-3/)
+- [Authorization](https://securitylabs.datadoghq.com/articles/kubernetes-security-fundamentals-part-4/)
+- [Admission Control](https://securitylabs.datadoghq.com/articles/kubernetes-security-fundamentals-part-5/)
+- [Networking](https://securitylabs.datadoghq.com/articles/kubernetes-security-fundamentals-part-6/)
 
 
 Video series that accompanies the blogs
 
 - [Introduction](https://youtu.be/0MhHkTtiBCc?si=-hLpq6oJkBKi5Ihm)
 - [API Security - Part 1](https://youtu.be/cB7RCAAS4ik?si=tAqVOUAD-Oi8L1as)
+- [API Security - Part 2](https://youtu.be/3jUcEDBAsnI?feature=shared)
+- [API Security - Part 3](https://youtu.be/OdkFPL7d73E?feature=shared)
+- [Authentication - Part 1](https://youtu.be/2setap7IgNc?feature=shared)
+- [Authentication - Part 2](https://youtu.be/1QNKj1rW5H0?feature=shared)
+- [Authentication - Part 3](https://youtu.be/jTswj4CS4IA?feature=shared)
+
 
 ## Security Labs
 
