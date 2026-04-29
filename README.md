@@ -37,6 +37,7 @@ An ongoing series of blogs posts about fundamental Kubernetes security concepts
 - [Authorization](https://securitylabs.datadoghq.com/articles/kubernetes-security-fundamentals-part-4/)
 - [Admission Control](https://securitylabs.datadoghq.com/articles/kubernetes-security-fundamentals-part-5/)
 - [Networking](https://securitylabs.datadoghq.com/articles/kubernetes-security-fundamentals-part-6/)
+- [PKI](https://securitylabs.datadoghq.com/articles/kubernetes-security-fundamentals-part-7/)
 
 
 Video series that accompanies the blogs
@@ -49,6 +50,13 @@ Video series that accompanies the blogs
 - [Authentication - Part 2](https://youtu.be/1QNKj1rW5H0?feature=shared)
 - [Authentication - Part 3](https://youtu.be/jTswj4CS4IA?feature=shared)
 
+## Unpatchable Vulnerabilities of Kubernetes
+
+Series of blog posts looking at Kubernetes CVEs that don't have a direct security patch, but instead require cluster operators to understand and mitigate them with configuration and architecture choices.
+
+- [CVE-2020-8554](https://securitylabs.datadoghq.com/articles/unpatchable-kubernetes-vulnerabilities-cve-2020-8554/)
+- [CVE-2020-8561](https://securitylabs.datadoghq.com/articles/unpatchable-kubernetes-vulnerabilities-cve-2020-8561/)
+- [CVE-2020-8562](https://securitylabs.datadoghq.com/articles/unpatchable-kubernetes-vulnerabilities-cve-2020-8562/)
 
 ## Security Labs
 
@@ -59,6 +67,7 @@ Video series that accompanies the blogs
 - [CIS Benchmark for Kubernetes](https://www.cisecurity.org/benchmark/kubernetes)
 - [NSA Kubernetes Hardening Guide](https://media.defense.gov/2022/Aug/29/2003066362/-1/-1/0/CTR_KUBERNETES_HARDENING_GUIDANCE_1.2_20220829.PDF)
 - [PCI Guidance for container orchestration security](https://docs-prv.pcisecuritystandards.org/Guidance%20Document/Containers%20and%20Container%20Orchestration%20Tools/Guidance-for-Containers-and-Container-Ochestration-Tools-v1_0.pdf)
+- [OWASP Kubernetes Top 10](https://owasp.org/www-project-kubernetes-top-ten/)
 
 ## Container Security Groups
 
